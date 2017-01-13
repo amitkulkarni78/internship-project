@@ -1,0 +1,22 @@
+[
+  {
+    "image": "pourage",
+    "type": "jpg",
+    "path": "images/Food-1.jpg"
+  },
+  {
+    "image": "sea food",
+    "type": "jpg",
+    "path": "images/Food-2.jpg"
+  },
+  {
+    "image": "vegitables",
+    "type": "jpg",
+    "path": "images/Food-3.jpg"
+  },
+  {
+    "image": "sweets",
+    "type": "jpg",
+    "path": "images/Food-4.jpg"
+  }
+]
