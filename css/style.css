@@ -1,0 +1,97 @@
+.item src{
+	width:1200px !important;
+}
+
+
+.carousel-inner{
+	width:100% !important;
+	box-shadow: inset 19px -27px 85px -2px #ABABAB,-10px 10px 64px 1px #242424;
+-webkit-box-shadow: inset 19px -27px 85px -2px #ABABAB,-10px 10px 64px 1px #242424;
+-moz-box-shadow: inset 19px -27px 85px -2px #ABABAB,-10px 10px 64px 1px #242424;
+-o-box-shadow: inset 19px -27px 85px -2px #ABABAB,-10px 10px 64px 1px #242424;
+}
+
+.carousel-caption{
+	font-family: 'Cherry Swash', cursive;
+	color:#F9BF3B;
+	top:30%;
+
+}
+
+.carousel-caption h1{
+	background: white;
+	padding:10px 10px;
+	border-radius:60px;
+}
+
+.navbar{
+	background:white;
+	border:0px;
+
+}
+
+.active {
+	background:#F9BF3B !important;
+	color:white;
+}
+
+.nav{
+	color:black;
+	font-family: 'Bungee Shade', cursive;
+}
+
+.navbar-brand{
+	font-family: 'Pacifico', cursive;
+}
+
+.servicecol{
+	font-family: 'Pacifico', cursive;
+	text-align: center;
+}
+
+.servicecol img{
+	height:230px;
+	width:230px;
+}
+
+#slider{
+	width:50% !important;
+	height:400px !important;
+}
+
+#about{
+	background:#F9BF3B;
+	font-family: 'Cherry Swash', cursive;
+}
+
+#about h1{
+	font-family: 'Bungee Shade', cursive;
+}
+#services h1{
+	font-family: 'Cherry Swash', cursive;
+}
+#contact h1{
+	font-family: 'Bungee Shade', cursive;
+}
+
+#contact{
+	background:#F5AB35;
+	font-family: 'Cherry Swash', cursive;
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (max-width: 800px) {
+	#slider{
+	width:100% !important;
+	height:400px !important;
+
+	}
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (max-width: 1200) {
+	#slider{
+	width:70% !important;
+	height:400px !important;
+	}
+}
